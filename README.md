@@ -1,4 +1,4 @@
-# Movies recommendation based Qdrant
+# Movies recommendation based on Qdrant
 Inspired by the *[Qdrant startup demo](https://demo.qdrant.tech/#/)*, I think keyworks searching could be recommendation. Based on I am a huge fan of movies, movies recommendation came into my brain.
 
 ## Let see what it is
